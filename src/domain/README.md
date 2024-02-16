@@ -1,1 +1,0 @@
--   This folder is considered as core domain layer
