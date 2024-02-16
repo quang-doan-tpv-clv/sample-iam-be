@@ -1,1 +1,0 @@
--   This is a example vendor service folder of typeorm

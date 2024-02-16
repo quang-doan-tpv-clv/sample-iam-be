@@ -1,1 +1,0 @@
--   This is a versioned app module folder of application layer
