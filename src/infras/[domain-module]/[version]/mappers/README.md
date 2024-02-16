@@ -1,0 +1,2 @@
+-   This folder contains all versioned domain module infras's mappers
+-   Those mappers are used to transform persist entity to domain entity and vice versa

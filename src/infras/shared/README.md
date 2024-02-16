@@ -1,0 +1,2 @@
+-   This folder is shared folder
+-   All things in this folder is shareable

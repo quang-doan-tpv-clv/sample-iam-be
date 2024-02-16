@@ -1,0 +1,2 @@
+-   This folder contains all versioned domain module infras's repositories
+-   Those repositories are concrete implementation of domain repository interfaces
