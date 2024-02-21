@@ -1,8 +1,6 @@
 {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
-    "prettier.endOfLine": "lf",
-    "files.eol": "\n",
     "workbench.tree.indent": 16,
     "workbench.tree.renderIndentGuides": "always"
 }
